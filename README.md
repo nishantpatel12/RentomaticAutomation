@@ -1,0 +1,2 @@
+# RentomaticAutomation
+automation for rentomatic
